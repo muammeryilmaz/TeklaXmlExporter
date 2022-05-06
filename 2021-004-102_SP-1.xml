@@ -1,0 +1,709 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BatchDataSet>
+
+<Meta>
+  <CreationTime>2021-11-16T11:15:59.7655497+03:00</CreationTime>
+  <CreatedBy>M.OZDURGUTLU</CreatedBy>
+  <ModificationTime>2021-11-16T11:15:59.7670958+03:00</ModificationTime>
+  <ModificatedBy>not modified</ModificatedBy>
+  <Version>1.0</Version>
+  <CadVersion>18.1</CadVersion>
+  </Meta>
+
+<Project>
+  <ProjectID>1</ProjectID>
+  <ProjectName>2021-004-102</ProjectName>
+  <ProjectSerial>2021-004-102</ProjectSerial>
+  </Project>
+
+<Element>
+  <ElementID>1</ElementID>
+  <ElementProjectID>1</ElementProjectID>
+  <ElementSerial>SP-1</ElementSerial>
+  <ElementName>SP-1</ElementName>
+  <ElementTypeStr>wall</ElementTypeStr>
+  <ElementFilePath>\\192.168.10.5\Tasarim\Uretim Tasarim\01.Siparişler (yeni)\2021\SEPET\2021-004-102-OBUKHOV - SACAK PANEL---03-03-2021</ElementFilePath>
+  <ElementCount>1</ElementCount>
+</Element>
+
+<Beam>
+  <BeamID>1</BeamID>
+  <BeamElementID>1</BeamElementID>
+  <BeamSerial>9005505</BeamSerial>
+  <BeamName>SA-54-10-U-OUT</BeamName>
+  <BeamMaterialGrade>S235JR</BeamMaterialGrade>
+  <BeamRotation>0</BeamRotation>
+  <BeamXStart>0</BeamXStart>
+  <BeamYStart>2000</BeamYStart>
+  <BeamZStart>2237.15</BeamZStart>
+  <BeamXEnd>3430</BeamXEnd>
+  <BeamYEnd>2000</BeamYEnd>
+  <BeamZEnd>2237.15</BeamZEnd>
+  <BeamLength>3430.0</BeamLength>
+</Beam>
+
+<Detail>
+  <DetailID>1</DetailID>
+  <DetailBeamID>1</DetailBeamID>
+  <DetailType>Front</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>2</DetailID>
+  <DetailBeamID>1</DetailBeamID>
+  <DetailType>End</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>3</DetailID>
+  <DetailBeamID>1</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>462.5</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>4</DetailID>
+  <DetailBeamID>1</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>25.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>5</DetailID>
+  <DetailBeamID>1</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>3405.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>6</DetailID>
+  <DetailBeamID>1</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>962.5</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>7</DetailID>
+  <DetailBeamID>1</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>1962.5</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>8</DetailID>
+  <DetailBeamID>1</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>1462.5</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>9</DetailID>
+  <DetailBeamID>1</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>2962.5</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>10</DetailID>
+  <DetailBeamID>1</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>2462.5</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Beam>
+  <BeamID>2</BeamID>
+  <BeamElementID>1</BeamElementID>
+  <BeamSerial>9005519</BeamSerial>
+  <BeamName>SA-54-10-U-OUT</BeamName>
+  <BeamMaterialGrade>S235JR</BeamMaterialGrade>
+  <BeamRotation>180</BeamRotation>
+  <BeamXStart>3430</BeamXStart>
+  <BeamYStart>2000</BeamYStart>
+  <BeamZStart>2437.15</BeamZStart>
+  <BeamXEnd>0</BeamXEnd>
+  <BeamYEnd>2000</BeamYEnd>
+  <BeamZEnd>2437.15</BeamZEnd>
+  <BeamLength>3430.0</BeamLength>
+</Beam>
+
+<Detail>
+  <DetailID>11</DetailID>
+  <DetailBeamID>2</DetailBeamID>
+  <DetailType>Front</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>12</DetailID>
+  <DetailBeamID>2</DetailBeamID>
+  <DetailType>End</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>13</DetailID>
+  <DetailBeamID>2</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>2967.5</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>14</DetailID>
+  <DetailBeamID>2</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>3405.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>15</DetailID>
+  <DetailBeamID>2</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>25.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>16</DetailID>
+  <DetailBeamID>2</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>2467.5</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>17</DetailID>
+  <DetailBeamID>2</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>1467.5</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>18</DetailID>
+  <DetailBeamID>2</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>1967.5</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>19</DetailID>
+  <DetailBeamID>2</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>467.5</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>20</DetailID>
+  <DetailBeamID>2</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeM5ScrewCup</DetailName>
+  <DetailXPos>967.5</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Beam>
+  <BeamID>3</BeamID>
+  <BeamElementID>1</BeamElementID>
+  <BeamSerial>9005526</BeamSerial>
+  <BeamName>SA-54-10-C-IN</BeamName>
+  <BeamMaterialGrade>S235JR</BeamMaterialGrade>
+  <BeamRotation>0</BeamRotation>
+  <BeamXStart>25</BeamXStart>
+  <BeamYStart>2000</BeamYStart>
+  <BeamZStart>2461.15</BeamZStart>
+  <BeamXEnd>25</BeamXEnd>
+  <BeamYEnd>2000</BeamYEnd>
+  <BeamZEnd>2213.15</BeamZEnd>
+  <BeamLength>248.0</BeamLength>
+</Beam>
+
+<Detail>
+  <DetailID>21</DetailID>
+  <DetailBeamID>3</DetailBeamID>
+  <DetailType>Front</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>22</DetailID>
+  <DetailBeamID>3</DetailBeamID>
+  <DetailType>End</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>23</DetailID>
+  <DetailBeamID>3</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>224.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>24</DetailID>
+  <DetailBeamID>3</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>24.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Beam>
+  <BeamID>4</BeamID>
+  <BeamElementID>1</BeamElementID>
+  <BeamSerial>9005533</BeamSerial>
+  <BeamName>SA-54-10-C-IN</BeamName>
+  <BeamMaterialGrade>S235JR</BeamMaterialGrade>
+  <BeamRotation>0</BeamRotation>
+  <BeamXStart>3405</BeamXStart>
+  <BeamYStart>2000</BeamYStart>
+  <BeamZStart>2213.15</BeamZStart>
+  <BeamXEnd>3405</BeamXEnd>
+  <BeamYEnd>2000</BeamYEnd>
+  <BeamZEnd>2461.15</BeamZEnd>
+  <BeamLength>248.0</BeamLength>
+</Beam>
+
+<Detail>
+  <DetailID>25</DetailID>
+  <DetailBeamID>4</DetailBeamID>
+  <DetailType>Front</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>26</DetailID>
+  <DetailBeamID>4</DetailBeamID>
+  <DetailType>End</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>27</DetailID>
+  <DetailBeamID>4</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>24.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>28</DetailID>
+  <DetailBeamID>4</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>224.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Beam>
+  <BeamID>5</BeamID>
+  <BeamElementID>1</BeamElementID>
+  <BeamSerial>9005540</BeamSerial>
+  <BeamName>SA-54-10-C-IN</BeamName>
+  <BeamMaterialGrade>S235JR</BeamMaterialGrade>
+  <BeamRotation>0</BeamRotation>
+  <BeamXStart>462.5</BeamXStart>
+  <BeamYStart>2000</BeamYStart>
+  <BeamZStart>2213.15</BeamZStart>
+  <BeamXEnd>462.5</BeamXEnd>
+  <BeamYEnd>2000</BeamYEnd>
+  <BeamZEnd>2461.15</BeamZEnd>
+  <BeamLength>248.0</BeamLength>
+</Beam>
+
+<Detail>
+  <DetailID>29</DetailID>
+  <DetailBeamID>5</DetailBeamID>
+  <DetailType>Front</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>30</DetailID>
+  <DetailBeamID>5</DetailBeamID>
+  <DetailType>End</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>31</DetailID>
+  <DetailBeamID>5</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>24.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>32</DetailID>
+  <DetailBeamID>5</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>224.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Beam>
+  <BeamID>6</BeamID>
+  <BeamElementID>1</BeamElementID>
+  <BeamSerial>9005547</BeamSerial>
+  <BeamName>SA-54-10-C-IN</BeamName>
+  <BeamMaterialGrade>S235JR</BeamMaterialGrade>
+  <BeamRotation>0</BeamRotation>
+  <BeamXStart>962.5</BeamXStart>
+  <BeamYStart>2000</BeamYStart>
+  <BeamZStart>2461.15</BeamZStart>
+  <BeamXEnd>962.5</BeamXEnd>
+  <BeamYEnd>2000</BeamYEnd>
+  <BeamZEnd>2213.15</BeamZEnd>
+  <BeamLength>248.0</BeamLength>
+</Beam>
+
+<Detail>
+  <DetailID>33</DetailID>
+  <DetailBeamID>6</DetailBeamID>
+  <DetailType>Front</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>34</DetailID>
+  <DetailBeamID>6</DetailBeamID>
+  <DetailType>End</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>35</DetailID>
+  <DetailBeamID>6</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>224.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>36</DetailID>
+  <DetailBeamID>6</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>24.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Beam>
+  <BeamID>7</BeamID>
+  <BeamElementID>1</BeamElementID>
+  <BeamSerial>9005554</BeamSerial>
+  <BeamName>SA-54-10-C-IN</BeamName>
+  <BeamMaterialGrade>S235JR</BeamMaterialGrade>
+  <BeamRotation>0</BeamRotation>
+  <BeamXStart>1962.5</BeamXStart>
+  <BeamYStart>2000</BeamYStart>
+  <BeamZStart>2461.15</BeamZStart>
+  <BeamXEnd>1962.5</BeamXEnd>
+  <BeamYEnd>2000</BeamYEnd>
+  <BeamZEnd>2213.15</BeamZEnd>
+  <BeamLength>248.0</BeamLength>
+</Beam>
+
+<Detail>
+  <DetailID>37</DetailID>
+  <DetailBeamID>7</DetailBeamID>
+  <DetailType>Front</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>38</DetailID>
+  <DetailBeamID>7</DetailBeamID>
+  <DetailType>End</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>39</DetailID>
+  <DetailBeamID>7</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>224.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>40</DetailID>
+  <DetailBeamID>7</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>24.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Beam>
+  <BeamID>8</BeamID>
+  <BeamElementID>1</BeamElementID>
+  <BeamSerial>9005561</BeamSerial>
+  <BeamName>SA-54-10-C-IN</BeamName>
+  <BeamMaterialGrade>S235JR</BeamMaterialGrade>
+  <BeamRotation>0</BeamRotation>
+  <BeamXStart>1462.5</BeamXStart>
+  <BeamYStart>2000</BeamYStart>
+  <BeamZStart>2213.15</BeamZStart>
+  <BeamXEnd>1462.5</BeamXEnd>
+  <BeamYEnd>2000</BeamYEnd>
+  <BeamZEnd>2461.15</BeamZEnd>
+  <BeamLength>248.0</BeamLength>
+</Beam>
+
+<Detail>
+  <DetailID>41</DetailID>
+  <DetailBeamID>8</DetailBeamID>
+  <DetailType>Front</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>42</DetailID>
+  <DetailBeamID>8</DetailBeamID>
+  <DetailType>End</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>43</DetailID>
+  <DetailBeamID>8</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>24.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>44</DetailID>
+  <DetailBeamID>8</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>224.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Beam>
+  <BeamID>9</BeamID>
+  <BeamElementID>1</BeamElementID>
+  <BeamSerial>9005568</BeamSerial>
+  <BeamName>SA-54-10-C-IN</BeamName>
+  <BeamMaterialGrade>S235JR</BeamMaterialGrade>
+  <BeamRotation>0</BeamRotation>
+  <BeamXStart>2962.5</BeamXStart>
+  <BeamYStart>2000</BeamYStart>
+  <BeamZStart>2461.15</BeamZStart>
+  <BeamXEnd>2962.5</BeamXEnd>
+  <BeamYEnd>2000</BeamYEnd>
+  <BeamZEnd>2213.15</BeamZEnd>
+  <BeamLength>248.0</BeamLength>
+</Beam>
+
+<Detail>
+  <DetailID>45</DetailID>
+  <DetailBeamID>9</DetailBeamID>
+  <DetailType>Front</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>46</DetailID>
+  <DetailBeamID>9</DetailBeamID>
+  <DetailType>End</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>47</DetailID>
+  <DetailBeamID>9</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>224.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>48</DetailID>
+  <DetailBeamID>9</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>24.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Beam>
+  <BeamID>10</BeamID>
+  <BeamElementID>1</BeamElementID>
+  <BeamSerial>9005575</BeamSerial>
+  <BeamName>SA-54-10-C-IN</BeamName>
+  <BeamMaterialGrade>S235JR</BeamMaterialGrade>
+  <BeamRotation>0</BeamRotation>
+  <BeamXStart>2462.5</BeamXStart>
+  <BeamYStart>2000</BeamYStart>
+  <BeamZStart>2213.15</BeamZStart>
+  <BeamXEnd>2462.5</BeamXEnd>
+  <BeamYEnd>2000</BeamYEnd>
+  <BeamZEnd>2461.15</BeamZEnd>
+  <BeamLength>248.0</BeamLength>
+</Beam>
+
+<Detail>
+  <DetailID>49</DetailID>
+  <DetailBeamID>10</DetailBeamID>
+  <DetailType>Front</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>50</DetailID>
+  <DetailBeamID>10</DetailBeamID>
+  <DetailType>End</DetailType>
+  <DetailName>Straight</DetailName>
+  <DetailXPos>0</DetailXPos>
+  <DetailYPos>0</DetailYPos>
+  <DetailProfileFace>Web</DetailProfileFace>
+  </Detail>
+
+<Detail>
+  <DetailID>51</DetailID>
+  <DetailBeamID>10</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>24.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+<Detail>
+  <DetailID>52</DetailID>
+  <DetailBeamID>10</DetailBeamID>
+  <DetailType>Middle</DetailType>
+  <DetailName>FlangeFM5ScrewCup</DetailName>
+  <DetailXPos>224.0</DetailXPos>
+  <DetailYPos>25.000</DetailYPos>
+  <DetailProfileFace>Flange</DetailProfileFace>
+</Detail>
+
+</BatchDataSet>

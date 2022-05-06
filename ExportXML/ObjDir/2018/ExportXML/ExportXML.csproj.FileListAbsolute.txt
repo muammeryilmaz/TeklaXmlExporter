@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\X\NewExporter\ExportXML\bin\Debug\ExportXML.exe.config
+C:\Users\Lenovo\Desktop\X\NewExporter\ExportXML\bin\Debug\ExportXML.exe
+C:\Users\Lenovo\Desktop\X\NewExporter\ExportXML\bin\Debug\ExportXML.pdb
+C:\Users\Lenovo\Desktop\X\NewExporter\ExportXML\ObjDir\2018\ExportXML\ExportXML.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\X\NewExporter\ExportXML\ObjDir\2018\ExportXML\ExportXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\X\NewExporter\ExportXML\ObjDir\2018\ExportXML\ExportXML.Form2.resources
+C:\Users\Lenovo\Desktop\X\NewExporter\ExportXML\ObjDir\2018\ExportXML\ExportXML.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\X\NewExporter\ExportXML\ObjDir\2018\ExportXML\ExportXML.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\X\NewExporter\ExportXML\ObjDir\2018\ExportXML\ExportXML.exe
+C:\Users\Lenovo\Desktop\X\NewExporter\ExportXML\ObjDir\2018\ExportXML\ExportXML.pdb
